@@ -85757,7 +85757,7 @@ o=p.RG
 p=o==null?p.k2:o
 o=A.jZ(20)
 n=t.s
-o=A.fW(new A.QR(A.a([new A.xk("Software Engineer","TechCorp Inc.","May 2024 - Present",A.a(["Flutter","Compose","Kotlin Multi Platform","Swift UI",i,"Android (Java)","React Native","Spring Boot"],n)),new A.xk("Associate Software Engineer",h,"Jul 2022 - May 2024",A.a(["Flutter",i,"Android (Java)","React Native"],n)),new A.xk("Software Engineer Intern",h,"Jan 2022 - Jun 2022",A.a(["Flutter",i,"Android (Java)","React Native"],n))],t.Gn),j),B.w,j,new A.dD(p,j,j,o,B.en,j,B.ak),j,j,new A.aT(24,24,24,24),j)
+o=A.fW(new A.QR(A.a([new A.xk("Software Engineer","Theta Technolabs Pvt. Ltd.","May 2024 - Present",A.a(["Flutter","Compose","Kotlin Multi Platform","Swift UI",i,"Android (Java)","React Native","Spring Boot"],n)),new A.xk("Associate Software Engineer",h,"Jul 2022 - May 2024",A.a(["Flutter",i,"Android (Java)","React Native"],n)),new A.xk("Software Engineer Intern",h,"Jan 2022 - Jun 2022",A.a(["Flutter",i,"Android (Java)","React Native"],n))],t.Gn),j),B.w,j,new A.dD(p,j,j,o,B.en,j,B.ak),j,j,new A.aT(24,24,24,24),j)
 p=A.df(j,32*$.bZ().geo(),j)
 n=A.hj("What I'm Doing",B.k,24,j)
 m=A.df(j,16*$.bZ().geo(),j)
